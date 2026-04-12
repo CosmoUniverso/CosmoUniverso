@@ -81,13 +81,13 @@ Development approach:
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" />
-        <br>GitHub Copilot
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://github.githubassets.com/favicons/favicon.svg" width="48" height="48" alt="GitHub Copilot" />
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
