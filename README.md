@@ -24,14 +24,14 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 💻 My Favorite Tools & Technologies  
+## 🔹 Favorite Tools
+
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
-      <br>React
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
@@ -46,89 +46,29 @@ I enjoy designing **modular, scalable, and intelligent systems**.
       <br>C++
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" />
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
-      <br>MySQL
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
+      <br>Git
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vue-icon.svg" width="65" height="65" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/jquery-icon.svg" width="65" height="65" />
-      <br>jQuery
-    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
       <br>GitHub
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
-      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" />
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" />
+      <br>Eclipse
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postman-icon.svg" width="65" height="65" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
-      <br>C#
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" />
+      <br>SQLite
     </td>
   </tr>
-
 </table>
 </div>
 
