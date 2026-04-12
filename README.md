@@ -10,17 +10,48 @@
 
 ## 🔹 About Me
 
-I'm a computer science student and developer focused on **AI systems**, **automation**, **cybersecurity**, and **software architecture**.
+Computer science student and developer focused on **AI systems**, **distributed architectures**, and **automation at scale**.
 
-I work on:
+Main areas of work:
 
-- **AI orchestration & multi‑agent systems**
-- **Automation tools & intelligent workflows**
-- **Web applications & functional interfaces**
-- **Cybersecurity fundamentals (TryHackMe, HackTheBox)**
-- **Collaborative development** (often with *mpsup3r* and other teammates)
+- **Multi-agent AI systems** (LLM + SLM orchestration, RAG pipelines)
+- **Automation & intelligent workflows** (event-driven systems, backend logic)
+- **Web-based interfaces** for AI-driven applications
+- **Secure communication layers** (WebSocket, relay architectures, E2EE concepts)
+- **Cybersecurity fundamentals** (TryHackMe, HackTheBox)
 
-I enjoy designing **modular, scalable, and intelligent systems**.
+Development approach:
+
+- Modular and **scalable system design**
+- Focus on **efficiency in constrained environments** (CPU-based AI)
+- Real-world oriented architectures over theoretical implementations
+
+---
+
+## 🔹 Current Focus
+
+- Designing **multi-agent AI architectures** with efficient orchestration
+- Running **LLMs locally** with CPU optimization and low resource usage
+- Building **secure distributed systems** (WebSocket relay + end-to-end encryption)
+- Developing **automation pipelines** and AI-integrated backends
+
+---
+
+## 🔹 Active Projects
+
+- **TreeSite Backend**  
+  Multi-agent AI backend with RAG and WebSocket relay architecture  
+  https://github.com/CosmoUniverso/TreeSite4BInfoBackend  
+  https://github.com/MPSup3r/albero-project  
+
+- **AutoStoker**  
+  Web platform and backend system (AI + content pipeline)  
+  https://autostoker.com  
+  https://github.com/MPSup3r/blogPostBETA  
+
+- **AELIA**  
+  Experimental project focused on autonomous AI systems  
+  https://github.com/CosmoUniverso/AELIA  
 
 ---
 
@@ -105,20 +136,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 🔹 Frameworks & Libraries
+## 🔹 AI & LLM Tools
 
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-10A37F.svg?logo=openai&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Claude-000000.svg?logo=anthropic&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Gemini-4285F4.svg?logo=google&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Copilot-000000.svg?logo=github&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Perplexity-1FB6FF.svg?logo=perplexity&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Grok-000000.svg?logo=x&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/DeepSeek-000000.svg?logo=data&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Meshy%20AI-FF6F00.svg?logo=3d&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wispr%20Flow-5A67D8.svg?logo=ai&logoColor=white" height="30" />
 </p>
 
 ---
@@ -126,6 +155,7 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Software & Tools
 
 <p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-000000.svg?logo=ai&logoColor=white" height="30" />
   <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="30" />
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="30" />
   <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="30" />
@@ -141,6 +171,26 @@ I enjoy designing **modular, scalable, and intelligent systems**.
   <img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" height="30" />
   <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white" height="30" />
   <img src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2.svg?logo=discord&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000.svg?logo=cursor&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white" height="30" />
+</p>
+
+---
+
+## 🔹 Frameworks & Libraries
+
+<p>
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white" height="30" />
 </p>
 
 ---
