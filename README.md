@@ -10,7 +10,8 @@
 
 ## 🔹 About Me
 
-I'm a computer science student and developer focused on **AI systems**, **automation**, **cybersecurity**, and **software architecture**.  
+I'm a computer science student and developer focused on **AI systems**, **automation**, **cybersecurity**, and **software architecture**.
+
 I work on:
 
 - **AI orchestration & multi‑agent systems**
@@ -23,10 +24,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 🔹 Favorite Tools
+## 🔹 Favorite Tools (Animated Icons Coming Soon)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,git,github,vscode,eclipse,sqlite" height="60" />
+  <img src="icons/java.svg" height="60" />
+  <img src="icons/python.svg" height="60" />
+  <img src="icons/js.svg" height="60" />
+  <img src="icons/cpp.svg" height="60" />
+  <img src="icons/git.svg" height="60" />
+  <img src="icons/github.svg" height="60" />
+  <img src="icons/vscode.svg" height="60" />
+  <img src="icons/eclipse.svg" height="60" />
+  <img src="icons/sqlite.svg" height="60" />
 </p>
 
 ---
@@ -34,18 +43,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Programming & Markup Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <img src="icons/java.svg" height="40" />
+  <img src="icons/python.svg" height="40" />
+  <img src="icons/cpp.svg" height="40" />
+  <img src="icons/js.svg" height="40" />
+  <img src="icons/ts.svg" height="40" />
+  <img src="icons/html.svg" height="40" />
+  <img src="icons/css.svg" height="40" />
+  <img src="icons/bash.svg" height="40" />
+  <img src="icons/markdown.svg" height="40" />
+  <img src="icons/mysql.svg" height="40" />
+  <img src="icons/postgres.svg" height="40" />
+  <img src="icons/sqlite.svg" height="40" />
 </p>
 
 ---
@@ -53,17 +62,17 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" />
-  <img src="https://skillicons.dev/icons?i=numpy" height="40" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="icons/nextjs.svg" height="40" />
+  <img src="icons/react.svg" height="40" />
+  <img src="icons/nodejs.svg" height="40" />
+  <img src="icons/express.svg" height="40" />
+  <img src="icons/flask.svg" height="40" />
+  <img src="icons/tensorflow.svg" height="40" />
+  <img src="icons/pytorch.svg" height="40" />
+  <img src="icons/pandas.svg" height="40" />
+  <img src="icons/numpy.svg" height="40" />
+  <img src="icons/bootstrap.svg" height="40" />
+  <img src="icons/tailwind.svg" height="40" />
 </p>
 
 ---
@@ -71,21 +80,21 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Software & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" />
-  <img src="https://skillicons.dev/icons?i=oracle" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  <img src="https://skillicons.dev/icons?i=render" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  <img src="icons/git.svg" height="40" />
+  <img src="icons/github.svg" height="40" />
+  <img src="icons/vscode.svg" height="40" />
+  <img src="icons/eclipse.svg" height="40" />
+  <img src="icons/linux.svg" height="40" />
+  <img src="icons/docker.svg" height="40" />
+  <img src="icons/postman.svg" height="40" />
+  <img src="icons/notion.svg" height="40" />
+  <img src="icons/oracle.svg" height="40" />
+  <img src="icons/vercel.svg" height="40" />
+  <img src="icons/render.svg" height="40" />
+  <img src="icons/mongodb.svg" height="40" />
+  <img src="icons/redis.svg" height="40" />
+  <img src="icons/githubactions.svg" height="40" />
+  <img src="icons/discord.svg" height="40" />
 </p>
 
 ---
@@ -93,10 +102,10 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Cybersecurity Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali" height="40" />
-  <img src="https://skillicons.dev/icons?i=wireshark" height="40" />
-  <img src="https://skillicons.dev/icons?i=tryhackme" height="40" />
-  <img src="https://skillicons.dev/icons?i=hackthebox" height="40" />
+  <img src="icons/kali.svg" height="40" />
+  <img src="icons/wireshark.svg" height="40" />
+  <img src="icons/tryhackme.svg" height="40" />
+  <img src="icons/hackthebox.svg" height="40" />
 </p>
 
 ---
