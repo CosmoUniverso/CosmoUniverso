@@ -172,5 +172,5 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/snake-dark.svg" />
 </p>
