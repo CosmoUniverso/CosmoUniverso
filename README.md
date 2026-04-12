@@ -91,7 +91,7 @@ Development approach:
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude" />
+        <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
@@ -187,7 +187,7 @@ Development approach:
         <br>ChatGPT
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude" />
+        <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
@@ -215,8 +215,6 @@ Development approach:
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
-      </td>
-      <td align="center" width="96">
       </td>
     </tr>
   </table>
