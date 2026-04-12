@@ -80,12 +80,12 @@ Development approach:
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
         <br>MySQL
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
         <br>GitHub
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://github.githubassets.com/favicons/favicon.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
@@ -95,17 +95,15 @@ Development approach:
         <br>Claude
       </td>
       <td align="center" width="96">
-        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
-        <br>Antigravity
+        <img src="https://chatgpt.com/favicon.ico" width="48" height="48" alt="ChatGPT" />
+        <br>ChatGPT
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VSCode
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
         <br>IntelliJ
       </td>
       <td align="center" width="96">
@@ -120,288 +118,90 @@ Development approach:
 
 ## 🔹 Programming & Markup Languages
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-        <br>Bash
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="Markdown" />
-        <br>Markdown
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
+</p>
 
 ---
 
 ## 🔹 AI & LLM Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://chatgpt.com/favicon.ico" width="48" height="48" alt="ChatGPT" />
-        <br>ChatGPT
-      </td>
-      <td align="center" width="96">
-        <img src="https://claude.ai/favicon.ico" width="48" height="48" alt="Claude" />
-        <br>Claude
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.gstatic.com/lamda/images/gemini_favicon_v002_2c1e9e5d5adfc9d6c8f1b7d5bbb2a6a0.ico" width="48" height="48" alt="Gemini" />
-        <br>Gemini
-      </td>
-      <td align="center" width="96">
-        <img src="https://github.githubassets.com/favicons/favicon.svg" width="48" height="48" alt="GitHub Copilot" />
-        <br>GitHub Copilot
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.perplexity.ai/favicon.ico" width="48" height="48" alt="Perplexity" />
-        <br>Perplexity
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://x.ai/favicon.ico" width="48" height="48" alt="Grok" />
-        <br>Grok
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.deepseek.com/favicon.ico" width="48" height="48" alt="DeepSeek" />
-        <br>DeepSeek
-      </td>
-      <td align="center" width="96">
-        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
-        <br>Antigravity
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F.svg?logo=openai&logoColor=white">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-111111.svg?logoColor=white">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4.svg?logo=google&logoColor=white">
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?logo=githubcopilot&logoColor=white">
+  <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB6FF.svg?logo=perplexity&logoColor=white">
+  <img alt="Grok" src="https://img.shields.io/badge/Grok-000000.svg?logo=x&logoColor=white">
+  <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE.svg?logoColor=white">
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4.svg?logoColor=white">
+</p>
 
 ---
 
 ## 🔹 Software & Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
-        <br>VSCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
-        <br>Eclipse
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
-        <br>IntelliJ
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
-        <br>Cursor
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-        <br>Notion
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.oracle.com/favicon.ico" width="48" height="48" alt="Oracle" />
-        <br>Oracle
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-        <br>Vercel
-      </td>
-      <td align="center" width="96">
-        <img src="https://render.com/favicon.ico" width="48" height="48" alt="Render" />
-        <br>Render
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.blender.org/favicon.ico" width="48" height="48" alt="Blender" />
-        <br>Blender
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-        <br>Actions
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
-        <br>Discord
-      </td>
-      <td align="center" width="96">
-        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
-        <br>Antigravity
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white">
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7.svg?logo=render&logoColor=black">
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4.svg?logoColor=white">
+</p>
 
 ---
 
 ## 🔹 Frameworks & Libraries
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-        <br>Flask
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.tensorflow.org/images/favicon.png" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" />
-        <br>Pandas
-      </td>
-      <td align="center" width="96">
-        <img src="https://numpy.org/images/logo.svg" width="48" height="48" alt="NumPy" />
-        <br>NumPy
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-        <br>Tailwind
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?logo=tailwindcss&logoColor=white">
+</p>
 
 ---
 
 ## 🔹 Cybersecurity Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
-        <br>Kali
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.wireshark.org/assets/icons/favicon.ico" width="48" height="48" alt="Wireshark" />
-        <br>Wireshark
-      </td>
-      <td align="center" width="96">
-        <img src="https://tryhackme.com/favicon.ico" width="48" height="48" alt="TryHackMe" />
-        <br>TryHackMe
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.hackthebox.com/images/favicon.png" width="48" height="48" alt="Hack The Box" />
-        <br>Hack The Box
-      </td>
-    </tr>
-  </table>
-</div>
+<p>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali-557C94.svg?logo=kalilinux&logoColor=white">
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white">
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white">
+  <img alt="Hack The Box" src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?logo=hackthebox&logoColor=black">
+</p>
 
 ---
 
