@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/f6e35854-4698-470a-b968-f6669fac318e
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;Welcome+to+my+GitHub+profile;AI+Systems+%7C+Cybersecurity+%7C+Software+Engineering;Always+learning%2C+always+building" />
 </p>
