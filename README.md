@@ -103,7 +103,7 @@ Development approach:
         <br>VSCode
       </td>
       <td align="center" width="96">
-        <img src="https://download.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-ide/eclipse_logo.svg" width="48" height="48" alt="Eclipse" />
+        <img src="https://cdn.simpleicons.org/eclipseide" width="48" height="48" alt="Eclipse" />
         <br>Eclipse
       </td>
       <td align="center" width="96">
