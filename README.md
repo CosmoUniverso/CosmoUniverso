@@ -87,15 +87,15 @@ Development approach:
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/github-copilot.svg" width="48" height="48" alt="GitHub Copilot" />
+        <img src="https://github.githubassets.com/favicons/favicon.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/claude.svg" width="48" height="48" alt="Claude" />
+        <img src="https://claude.ai/favicon.ico" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
+        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
       <td align="center" width="96">
@@ -109,7 +109,7 @@ Development approach:
         <br>IntelliJ
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/cursor.svg" width="48" height="48" alt="Cursor" />
+        <img src="https://cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
         <br>Cursor
       </td>
     </tr>
@@ -158,7 +158,7 @@ Development approach:
         <br>Bash
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/markdown.svg" width="48" height="48" alt="Markdown" />
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="Markdown" />
         <br>Markdown
       </td>
       <td align="center" width="96">
@@ -187,37 +187,37 @@ Development approach:
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/chatgpt.svg" width="48" height="48" alt="ChatGPT" />
+        <img src="https://chatgpt.com/favicon.ico" width="48" height="48" alt="ChatGPT" />
         <br>ChatGPT
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/claude.svg" width="48" height="48" alt="Claude" />
+        <img src="https://claude.ai/favicon.ico" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/gemini.svg" width="48" height="48" alt="Gemini" />
+        <img src="https://www.gstatic.com/lamda/images/gemini_favicon_v002_2c1e9e5d5adfc9d6c8f1b7d5bbb2a6a0.ico" width="48" height="48" alt="Gemini" />
         <br>Gemini
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/github-copilot.svg" width="48" height="48" alt="GitHub Copilot" />
+        <img src="https://github.githubassets.com/favicons/favicon.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/perplexity.svg" width="48" height="48" alt="Perplexity" />
+        <img src="https://www.perplexity.ai/favicon.ico" width="48" height="48" alt="Perplexity" />
         <br>Perplexity
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/grok.svg" width="48" height="48" alt="Grok" />
+        <img src="https://x.ai/favicon.ico" width="48" height="48" alt="Grok" />
         <br>Grok
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" />
+        <img src="https://www.deepseek.com/favicon.ico" width="48" height="48" alt="DeepSeek" />
         <br>DeepSeek
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
+        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
     </tr>
@@ -254,7 +254,7 @@ Development approach:
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/cursor.svg" width="48" height="48" alt="Cursor" />
+        <img src="https://cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
         <br>Cursor
       </td>
       <td align="center" width="96">
@@ -276,7 +276,7 @@ Development approach:
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/oracle.svg" width="48" height="48" alt="Oracle" />
+        <img src="https://www.oracle.com/favicon.ico" width="48" height="48" alt="Oracle" />
         <br>Oracle
       </td>
       <td align="center" width="96">
@@ -284,11 +284,11 @@ Development approach:
         <br>Vercel
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/render.svg" width="48" height="48" alt="Render" />
+        <img src="https://render.com/favicon.ico" width="48" height="48" alt="Render" />
         <br>Render
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/blender.svg" width="48" height="48" alt="Blender" />
+        <img src="https://www.blender.org/favicon.ico" width="48" height="48" alt="Blender" />
         <br>Blender
       </td>
       <td align="center" width="96">
@@ -310,7 +310,7 @@ Development approach:
         <br>Discord
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
+        <img src="https://antigravity.dev/favicon.ico" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
     </tr>
@@ -347,19 +347,19 @@ Development approach:
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
+        <img src="https://www.tensorflow.org/images/favicon.png" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
+        <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" />
         <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy" />
+        <img src="https://numpy.org/images/logo.svg" width="48" height="48" alt="NumPy" />
         <br>NumPy
       </td>
       <td align="center" width="96">
@@ -388,20 +388,21 @@ Development approach:
         <br>Kali
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark" />
+        <img src="https://www.wireshark.org/assets/icons/favicon.ico" width="48" height="48" alt="Wireshark" />
         <br>Wireshark
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/tryhackme.svg" width="48" height="48" alt="TryHackMe" />
+        <img src="https://tryhackme.com/favicon.ico" width="48" height="48" alt="TryHackMe" />
         <br>TryHackMe
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/hackthebox.svg" width="48" height="48" alt="Hack The Box" />
+        <img src="https://www.hackthebox.com/images/favicon.png" width="48" height="48" alt="Hack The Box" />
         <br>Hack The Box
       </td>
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🔹 GitHub Stats
