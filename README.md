@@ -24,18 +24,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 🔹 Favorite Tools (Animated Icons Coming Soon)
+## 🔹 Favorite Tools
 
 <p align="center">
-  <img src="icons/java.svg" height="60" />
-  <img src="icons/python.svg" height="60" />
-  <img src="icons/js.svg" height="60" />
-  <img src="icons/cpp.svg" height="60" />
-  <img src="icons/git.svg" height="60" />
-  <img src="icons/github.svg" height="60" />
-  <img src="icons/vscode.svg" height="60" />
-  <img src="icons/eclipse.svg" height="60" />
-  <img src="icons/sqlite.svg" height="60" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="40" />
 </p>
 
 ---
@@ -43,18 +43,18 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Programming & Markup Languages
 
 <p>
-  <img src="icons/java.svg" height="40" />
-  <img src="icons/python.svg" height="40" />
-  <img src="icons/cpp.svg" height="40" />
-  <img src="icons/js.svg" height="40" />
-  <img src="icons/ts.svg" height="40" />
-  <img src="icons/html.svg" height="40" />
-  <img src="icons/css.svg" height="40" />
-  <img src="icons/bash.svg" height="40" />
-  <img src="icons/markdown.svg" height="40" />
-  <img src="icons/mysql.svg" height="40" />
-  <img src="icons/postgres.svg" height="40" />
-  <img src="icons/sqlite.svg" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bash-121011.svg?logo=gnubash&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="30" />
 </p>
 
 ---
@@ -62,17 +62,17 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Frameworks & Libraries
 
 <p>
-  <img src="icons/nextjs.svg" height="40" />
-  <img src="icons/react.svg" height="40" />
-  <img src="icons/nodejs.svg" height="40" />
-  <img src="icons/express.svg" height="40" />
-  <img src="icons/flask.svg" height="40" />
-  <img src="icons/tensorflow.svg" height="40" />
-  <img src="icons/pytorch.svg" height="40" />
-  <img src="icons/pandas.svg" height="40" />
-  <img src="icons/numpy.svg" height="40" />
-  <img src="icons/bootstrap.svg" height="40" />
-  <img src="icons/tailwind.svg" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white" height="30" />
 </p>
 
 ---
@@ -80,21 +80,21 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Software & Tools
 
 <p>
-  <img src="icons/git.svg" height="40" />
-  <img src="icons/github.svg" height="40" />
-  <img src="icons/vscode.svg" height="40" />
-  <img src="icons/eclipse.svg" height="40" />
-  <img src="icons/linux.svg" height="40" />
-  <img src="icons/docker.svg" height="40" />
-  <img src="icons/postman.svg" height="40" />
-  <img src="icons/notion.svg" height="40" />
-  <img src="icons/oracle.svg" height="40" />
-  <img src="icons/vercel.svg" height="40" />
-  <img src="icons/render.svg" height="40" />
-  <img src="icons/mongodb.svg" height="40" />
-  <img src="icons/redis.svg" height="40" />
-  <img src="icons/githubactions.svg" height="40" />
-  <img src="icons/discord.svg" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000.svg?logo=oracle&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Render-00979D.svg?logo=render&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2.svg?logo=discord&logoColor=white" height="30" />
 </p>
 
 ---
@@ -102,10 +102,10 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Cybersecurity Tools
 
 <p>
-  <img src="icons/kali.svg" height="40" />
-  <img src="icons/wireshark.svg" height="40" />
-  <img src="icons/tryhackme.svg" height="40" />
-  <img src="icons/hackthebox.svg" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Kali-557C94.svg?logo=kalilinux&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white" height="30" />
+  <img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black" height="30" />
 </p>
 
 ---
