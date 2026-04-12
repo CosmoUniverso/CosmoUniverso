@@ -81,8 +81,8 @@ Development approach:
         <br>MySQL
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="48" height="48" alt="GitHub Copilot" />
+        <br>GitHub Copilot
       </td>
     </tr>
     <tr>
@@ -107,8 +107,8 @@ Development approach:
         <br>IntelliJ
       </td>
       <td align="center" width="96">
-        <img src="https://cursor.com/favicon.ico" width="48" height="48" alt="Cursor" />
-        <br>Cursor
+        <img src="https://github.com/CosmoUniverso/CosmoUniverso/blob/main/assets/icons/Antigravity.png" width="48" height="48" alt="Antigravity" />
+        <br>Antigravity
       </td>
     </tr>
   </table>
@@ -145,7 +145,6 @@ Development approach:
   <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB6FF.svg?logo=perplexity&logoColor=white">
   <img alt="Grok" src="https://img.shields.io/badge/Grok-000000.svg?logo=x&logoColor=white">
   <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE.svg?logoColor=white">
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4.svg?logoColor=white">
 </p>
 
 ---
