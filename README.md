@@ -80,34 +80,36 @@ Development approach:
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
         <br>MySQL
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
         <br>GitHub
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Copilot" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/github-copilot.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/claude.svg" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VSCode
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
         <br>IntelliJ
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/cursor.svg" width="48" height="48" alt="Cursor" />
         <br>Cursor
       </td>
     </tr>
@@ -141,12 +143,12 @@ Development approach:
         <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
         <br>CSS3
@@ -156,13 +158,15 @@ Development approach:
         <br>Bash
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/markdown" width="48" height="48" alt="Markdown" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/markdown.svg" width="48" height="48" alt="Markdown" />
         <br>Markdown
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
         <br>MySQL
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
         <br>PostgreSQL
@@ -183,37 +187,37 @@ Development approach:
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="ChatGPT" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/chatgpt.svg" width="48" height="48" alt="ChatGPT" />
         <br>ChatGPT
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/claude" width="48" height="48" alt="Claude" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/claude.svg" width="48" height="48" alt="Claude" />
         <br>Claude
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Gemini" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/gemini.svg" width="48" height="48" alt="Gemini" />
         <br>Gemini
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" alt="GitHub Copilot" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/github-copilot.svg" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/perplexity" width="48" height="48" alt="Perplexity" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/perplexity.svg" width="48" height="48" alt="Perplexity" />
         <br>Perplexity
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/x" width="48" height="48" alt="Grok" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/grok.svg" width="48" height="48" alt="Grok" />
         <br>Grok
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/deepseek" width="48" height="48" alt="DeepSeek" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" />
         <br>DeepSeek
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
     </tr>
@@ -247,12 +251,12 @@ Development approach:
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
         <br>IntelliJ
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" />
-        <br>Cursor
-      </td>
     </tr>
     <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/cursor.svg" width="48" height="48" alt="Cursor" />
+        <br>Cursor
+      </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
         <br>Linux
@@ -269,28 +273,30 @@ Development approach:
         <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
         <br>Notion
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/oracle" width="48" height="48" alt="Oracle" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/oracle.svg" width="48" height="48" alt="Oracle" />
         <br>Oracle
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
         <br>Vercel
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/render.svg" width="48" height="48" alt="Render" />
         <br>Render
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/blender" width="48" height="48" alt="Meshy AI" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/blender.svg" width="48" height="48" alt="Blender" />
         <br>Blender
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
         <br>Redis
@@ -304,7 +310,7 @@ Development approach:
         <br>Discord
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/antigravity.png" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
       </td>
     </tr>
@@ -338,28 +344,30 @@ Development approach:
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
         <br>Flask
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pytorch" width="48" height="48" alt="PyTorch" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/pytorch.svg" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/pandas.svg" width="48" height="48" alt="Pandas" />
         <br>Pandas
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/numpy.svg" width="48" height="48" alt="NumPy" />
         <br>NumPy
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind
@@ -380,21 +388,20 @@ Development approach:
         <br>Kali
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/wireshark.svg" width="48" height="48" alt="Wireshark" />
         <br>Wireshark
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tryhackme" width="48" height="48" alt="TryHackMe" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/tryhackme.svg" width="48" height="48" alt="TryHackMe" />
         <br>TryHackMe
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/hackthebox" width="48" height="48" alt="Hack The Box" />
+        <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/assets/icons/hackthebox.svg" width="48" height="48" alt="Hack The Box" />
         <br>Hack The Box
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 🔹 GitHub Stats
