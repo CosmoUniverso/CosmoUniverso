@@ -24,19 +24,113 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 
 ---
 
-## 🔹 Favorite Tools
+## 💻 My Favorite Tools & Technologies  
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
 
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white" height="40" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="40" />
-</p>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vue-icon.svg" width="65" height="65" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" width="65" height="65" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/jquery-icon.svg" width="65" height="65" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/postman-icon.svg" width="65" height="65" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+
+</table>
+</div>
 
 ---
 
