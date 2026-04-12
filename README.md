@@ -172,5 +172,9 @@ I enjoy designing **modular, scalable, and intelligent systems**.
 ## 🔹 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/output/github-snake.svg" />
+  </picture>
 </p>
