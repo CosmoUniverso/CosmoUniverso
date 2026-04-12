@@ -57,152 +57,359 @@ Development approach:
 
 ## 🔹 Favorite Tools
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
-      <br>GitHub
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" />
-      <br>Eclipse
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" />
-      <br>SQLite
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub Copilot" />
+        <br>GitHub Copilot
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude" />
+        <br>Claude
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <br>Antigravity
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+        <br>IntelliJ
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" />
+        <br>Cursor
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🔹 Programming & Markup Languages
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/C++-00599C.svg?logo=cpp2&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Bash-121011.svg?logo=gnubash&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Markdown-000000.svg?logo=markdown&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/SQLite-07405E.svg?logo=sqlite&logoColor=white" height="30" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+        <br>Bash
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/markdown" width="48" height="48" alt="Markdown" />
+        <br>Markdown
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br>SQLite
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🔹 AI & LLM Tools
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-10A37F.svg?logo=openai&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Claude-000000.svg?logo=anthropic&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Gemini-4285F4.svg?logo=google&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Copilot-000000.svg?logo=github&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Perplexity-1FB6FF.svg?logo=perplexity&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Grok-000000.svg?logo=x&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/DeepSeek-000000.svg?logo=data&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Meshy%20AI-FF6F00.svg?logo=3d&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Wispr%20Flow-5A67D8.svg?logo=ai&logoColor=white" height="30" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/openai" width="48" height="48" alt="ChatGPT" />
+        <br>ChatGPT
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/anthropic" width="48" height="48" alt="Claude" />
+        <br>Claude
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Gemini" />
+        <br>Gemini
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" alt="GitHub Copilot" />
+        <br>GitHub Copilot
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/perplexity" width="48" height="48" alt="Perplexity" />
+        <br>Perplexity
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/x" width="48" height="48" alt="Grok" />
+        <br>Grok
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/deepseek" width="48" height="48" alt="DeepSeek" />
+        <br>DeepSeek
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/blender" width="48" height="48" alt="Meshy AI" />
+        <br>Meshy AI
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <br>Antigravity
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/soundcloud" width="48" height="48" alt="Wispr Flow" />
+        <br>Wispr Flow
+      </td>
+      <td align="center" width="96">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🔹 Software & Tools
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Antigravity-000000.svg?logo=ai&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Git-F05033.svg?logo=git&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Linux-FCC624.svg?logo=linux&logoColor=black" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED.svg?logo=docker&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000.svg?logo=oracle&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Render-00979D.svg?logo=render&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Redis-DC382D.svg?logo=redis&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/GitHub%20Actions-2671E5.svg?logo=githubactions&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2.svg?logo=discord&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000.svg?logo=cursor&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/IntelliJ-000000.svg?logo=intellijidea&logoColor=white" height="30" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+        <br>VSCode
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+        <br>Eclipse
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA" />
+        <br>IntelliJ
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" />
+        <br>Cursor
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+        <br>Notion
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/oracle" width="48" height="48" alt="Oracle" />
+        <br>Oracle
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+        <br>Vercel
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
+        <br>Render
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+        <br>Actions
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord" />
+        <br>Discord
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
+        <br>Antigravity
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🔹 Frameworks & Libraries
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Node.js-43853D.svg?logo=nodedotjs&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-404d59.svg?logo=express&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Flask-000000.svg?logo=flask&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Pandas-150458.svg?logo=pandas&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Tailwind-38B2AC.svg?logo=tailwindcss&logoColor=white" height="30" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy" />
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 🔹 Cybersecurity Tools
 
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Kali-557C94.svg?logo=kalilinux&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=white" height="30" />
-  <img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black" height="30" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kali" width="48" height="48" alt="Kali Linux" />
+        <br>Kali
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/wireshark" width="48" height="48" alt="Wireshark" />
+        <br>Wireshark
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/tryhackme" width="48" height="48" alt="TryHackMe" />
+        <br>TryHackMe
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/hackthebox" width="48" height="48" alt="Hack The Box" />
+        <br>Hack The Box
+      </td>
+      <td align="center" width="96">
+      </td>
+      <td align="center" width="96">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
