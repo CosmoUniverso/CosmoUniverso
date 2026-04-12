@@ -57,7 +57,7 @@ I enjoy designing **modular, scalable, and intelligent systems**.
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
       <br>VSCode
     </td>
     <td align="center" width="96">
