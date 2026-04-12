@@ -195,10 +195,6 @@ Development approach:
         <br>Gemini
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" alt="GitHub Copilot" />
         <br>GitHub Copilot
       </td>
@@ -217,16 +213,8 @@ Development approach:
         <br>DeepSeek
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/blender" width="48" height="48" alt="Meshy AI" />
-        <br>Meshy AI
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/google" width="48" height="48" alt="Antigravity" />
         <br>Antigravity
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/soundcloud" width="48" height="48" alt="Wispr Flow" />
-        <br>Wispr Flow
       </td>
       <td align="center" width="96">
       </td>
@@ -296,6 +284,10 @@ Development approach:
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" />
         <br>Render
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/blender" width="48" height="48" alt="Meshy AI" />
+        <br>Blender
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -374,8 +366,6 @@ Development approach:
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind
       </td>
-      <td align="center" width="96">
-      </td>
     </tr>
   </table>
 </div>
@@ -402,10 +392,6 @@ Development approach:
       <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/hackthebox" width="48" height="48" alt="Hack The Box" />
         <br>Hack The Box
-      </td>
-      <td align="center" width="96">
-      </td>
-      <td align="center" width="96">
       </td>
     </tr>
   </table>
