@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://github.com/CosmoUniverso/CosmoUniverso/blob/main/banner.gif" width="100%" />
 </p>
@@ -205,6 +207,8 @@ Development approach:
 ---
 
 ## 🔹 GitHub Stats
+
+These stats cards are regenerated automatically by GitHub Actions every 12 hours.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CosmoUniverso/CosmoUniverso/main/profile/github-stats.svg" height="170" alt="GitHub Stats" />
